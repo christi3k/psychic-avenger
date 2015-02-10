@@ -1,10 +1,9 @@
 # psychic-avenger
 Practicing with git submodules
 
-This now contains some cutting-edge changes we're not ready to put into a release.
-
 # Release Notes
 
-Current release: B
+Current release: C
+* includes cutting edge changes.
 
-Previous releases: A
+Previous releases: A, B
