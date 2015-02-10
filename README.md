@@ -3,4 +3,6 @@ Practicing with git submodules
 
 # Release Notes
 
-Current release: A
+Current release: B
+
+Previous releases: A
