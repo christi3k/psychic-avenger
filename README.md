@@ -1,8 +1,9 @@
 # psychic-avenger
 Practicing with git submodules
+Isn't this fun?
 
 # Release Notes
 
-Current release: D
+Current release: E
 
-Previous releases: C, B, A
+Previous releases: D, C, B, A
